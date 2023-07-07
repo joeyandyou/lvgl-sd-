@@ -1,0 +1,1 @@
+使用里飞网工具生成内部数组.c文件后，将文件名改成font_change.c将文件放在dist目录下双击运行，生成font.bin、font.c
