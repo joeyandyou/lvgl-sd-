@@ -1,0 +1,4 @@
+1.将.c文件复制到同.exe目录，重命名为font_change.c
+2.运行后需要等2-3分钟后会生成font.c文件
+3.如生成文件有差异，可参照font_template.c修改
+4.生成的.hex文件需放sd卡
